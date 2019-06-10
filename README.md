@@ -20,6 +20,9 @@ The user can select a recipe that they like and choose to either save the recipe
 This feature allows the user to select some ingredients from a predetermined list, and the calorie counter will add the calories from the foods selected. If the user cannot find their food on the list, they can manually add the ingredient to the counter. When an item is selected from the predetermined list, the ingredient is dropped onto the plate using animation.
 <img src='calorieCounter.png' height=300>
 
+#### Personal Contribution
+Part of four member team that developed a health-based iOS application using Xcode/Swift with a BMI calculator, calorie counter, and recipe catalog with search capability. 
+Collaborated on the recipe API and customized how the recipes would be displayed and saved.
 
 ## Requirements
 - Xcode
